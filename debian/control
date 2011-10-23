@@ -1,0 +1,14 @@
+Source: plank-theme-pantheon
+Section: gnome
+Priority: extra
+Maintainer: Cody Garver <codygarver@gmail.com>
+Build-Depends: debhelper (>= 7.0.8)
+Standards-Version: 3.9.1
+Homepage: https://launchpad.net/plank-theme-pantheon
+Vcs-Bzr: https://code.launchpad.net/~elementary-os/plank-theme-pantheon/deb-packaging
+
+Package: plank-theme-pantheon
+Architecture: all
+Depends: plank
+Description: Plank theme for elementary OS
+ Plank theme for elementary OS, created to compliment the Pantheon desktop environment.
