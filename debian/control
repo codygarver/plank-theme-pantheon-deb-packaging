@@ -9,6 +9,6 @@ Vcs-Bzr: https://code.launchpad.net/~elementary-os/plank-theme-pantheon/deb-pack
 
 Package: plank-theme-pantheon
 Architecture: all
-Depends: plank
+Recommends: plank
 Description: Plank theme for elementary OS
  Plank theme for elementary OS, created to compliment the Pantheon desktop environment.
